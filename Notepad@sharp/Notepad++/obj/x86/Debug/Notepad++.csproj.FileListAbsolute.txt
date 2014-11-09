@@ -1,0 +1,9 @@
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad++\Notepad++\bin\Debug\Notepad++.exe
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad++\Notepad++\bin\Debug\Notepad++.pdb
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad++\Notepad++\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad++\Notepad++\obj\x86\Debug\Notepad__.Form1.resources
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad++\Notepad++\obj\x86\Debug\Notepad__.Properties.Resources.resources
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad++\Notepad++\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad++\Notepad++\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad++\Notepad++\obj\x86\Debug\Notepad++.exe
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\Notepad++\Notepad++\obj\x86\Debug\Notepad++.pdb
